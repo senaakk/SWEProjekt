@@ -18,13 +18,13 @@ MyYearlyView ist ein Desktop- und Tablet-Tool zur automatisierten Erstellung per
 
 ---
 
-### 3. Produktbeschreibung und Zentrale Eigenschaften
+## 3. Produktbeschreibung und Zentrale Eigenschaften
 
 MyYearlyView ist ein Tool zur Kuration und Visualisierung persönlicher Erlebnisse. Im Gegensatz zu herkömmlichen Fotobüchern liegt der Fokus auf der **intelligenten Automatisierung** und der **geografischen Anreicherung** der Inhalte.
 
 Die zentralen Eigenschaften (*Key Features*) gliedern sich in fünf Funktionsbereiche:
 
-### 2.1 Automatische Fotoverwaltung & KI-Analyse
+### 3.1 Automatische Fotoverwaltung & KI-Analyse
 Das System eliminiert den manuellen Sortieraufwand.
 * **Import:** Nahtloses Einlesen von Bildern aus lokalen Verzeichnissen oder Cloud-Speichern.
 * **Intelligente Sortierung:** Algorithmen sortieren Inhalte automatisch nach Metadaten (Datum, Ort) und nutzen Gesichtserkennung zur Identifikation relevanter Personen.
@@ -47,11 +47,12 @@ Das Tool fördert die aktive Auseinandersetzung mit den Erinnerungen.
 ### 3.5 Plattform & Usability
 * **Verfügbarkeit:** Entwicklung als Native App für Desktop (Windows, macOS) und Tablet (iPadOS).
 * **UX-Design:** Fokus auf einer intuitiven Benutzeroberfläche.
+  
 [Smart Photo Calendar.pdf](https://github.com/user-attachments/files/24108388/Smart.Photo.Calendar.pdf)
 
 ---
 
-#### 4. Zielgruppenanalyse
+## 4. Zielgruppenanalyse
 
 Das Produkt richtet sich an Menschen, die sich für visuelle Medien begeistern und Erinnerungskultur leben.
 
@@ -65,7 +66,7 @@ Das Produkt richtet sich an Menschen, die sich für visuelle Medien begeistern u
 
 ---
 
-###### 5. Erwartungshaltung und Erfolgskriterien
+## 5. Erwartungshaltung und Erfolgskriterien
 
 Der Erfolg der Software hängt davon ab, wie gut sie die konkreten Probleme der Nutzer löst.
 
