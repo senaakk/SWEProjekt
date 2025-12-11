@@ -2,7 +2,7 @@
 
 - **Modul:** Software Engineering
 - **Studiengang:** Wirtschaftsinformatik (B.Sc.)
-- **Projektteam:** Tabea Ortwain, Sena Nur Akpolad, Meriem Lakhrissi, Raey Shemeles Ayele
+- **Projektteam:** Tabea Ortwain, Sena Nur Akpolad, Meriam Lakhrissi, Raey Shemeles Ayele
 
 ---
 
