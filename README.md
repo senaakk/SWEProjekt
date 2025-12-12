@@ -81,12 +81,13 @@ Das Projektziel ist erreicht, wenn das Produkt folgende Kriterien erfüllt:
 
 > "Das Tool gilt als erfolgreich, wenn es eine zuverlässige, automatisierte Fotosortierung mit intuitiver Kalender-Erstellung verbindet und dabei höchste Ansprüche an Datenschutz und Benutzerfreundlichkeit erfüllt."
 
+---
 
 ## 6. Projektstruktur
 
 Die Umsetzung des Projekts erfolgt in vier zentralen Phasen, die sich an einem iterativen Entwicklungsprozess orientieren.
 
-### 5.1 Aufgabenfelder
+### 6.1 Aufgabenfelder
 Um die Kompetenzen des Teams (4 Personen) optimal zu nutzen, werden die Aufgaben in folgende Bereiche unterteilt:
 
 * **Projektmanagement & Dokumentation:** Koordination, Zeitplanung, Dokumentation (Lastenheft, Abschlussbericht).
@@ -95,7 +96,7 @@ Um die Kompetenzen des Teams (4 Personen) optimal zu nutzen, werden die Aufgaben
 * **KI & Algorithmen:** Implementierung der Bildanalyse (Gesichtserkennung) und automatischen Sortierung.
 * **Integration & Mapping:** Anbindung der Karten-APIs und Geodaten-Verarbeitung.
 
-### 5.2 Work Breakdown Structure (PSP) & Aufwände
+### 6.2 Work Breakdown Structure (PSP) & Aufwände
 Der Projektstrukturplan (PSP) gliedert das Projekt in Arbeitspakete. Die Aufwände sind in Personentagen (PT) geschätzt (1 PT = 8 Arbeitsstunden).
 
 | ID | Phase / Arbeitspaket | Beschreibung | Aufwand (Geschätzt) |
@@ -119,7 +120,7 @@ Der Projektstrukturplan (PSP) gliedert das Projekt in Arbeitspakete. Die Aufwän
 | 4.3 | Präsentation | Vorbereitung der Abschlusspräsentation | 2 PT |
 | | **GESAMT** | | **ca. 40 PT** |
 
-### 5.3 Notwendige Materialien & Ressourcen
+### 6.3 Notwendige Materialien & Ressourcen
 Für die erfolgreiche Durchführung werden folgende Ressourcen benötigt:
 
 **Hardware:**
@@ -136,3 +137,9 @@ Für die erfolgreiche Durchführung werden folgende Ressourcen benötigt:
 * **Programmiersprache:** Java (oder Python)
 * **Datenbank:** SQL oder lokale Dateien
 * **Bibliotheken:** Standard-Bibliotheken für GUI (Benutzeroberfläche) und Bildverarbeitung
+
+---
+
+7. Business Model Canvas
+
+[BusinessModelCanvas.xlsx](https://github.com/user-attachments/files/24125758/BusinessModelCanvas.xlsx)
