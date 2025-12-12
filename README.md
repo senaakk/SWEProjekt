@@ -140,6 +140,6 @@ Für die erfolgreiche Durchführung werden folgende Ressourcen benötigt:
 
 ---
 
-7. Business Model Canvas
+## 7. Business Model Canvas
 
 [BusinessModelCanvas.xlsx](https://github.com/user-attachments/files/24125758/BusinessModelCanvas.xlsx)
