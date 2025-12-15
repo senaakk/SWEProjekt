@@ -48,7 +48,6 @@ Das Tool fördert die aktive Auseinandersetzung mit den Erinnerungen.
 * **Verfügbarkeit:** Entwicklung als Native App für Desktop (Windows, macOS) und Tablet (iPadOS).
 * **UX-Design:** Fokus auf einer intuitiven Benutzeroberfläche.
   
-[Smart Photo Calendar.pdf](https://github.com/user-attachments/files/24108388/Smart.Photo.Calendar.pdf)
 
 ---
 
